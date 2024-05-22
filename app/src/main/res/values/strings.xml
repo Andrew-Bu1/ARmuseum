@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Plane</string>
+    <string name="play_video">Play Video</string>
+    <string name="place_model">Place Model</string>
+</resources>
